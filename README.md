@@ -2,7 +2,7 @@
 Leaked source code of the babuk ransomware by VXUG
 
 > [!NOTE]
-> No this is not the source of the Bazek Ransomware (huh idiots everywhere)
+> No this is not the source of the Bazek Ransomware 🙄
 
 > [!WARNING]
 > As this is ransomeware please only run it on a dedicated virtual maschiene or on systems where you have explicit permissions of the owner
